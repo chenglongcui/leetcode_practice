@@ -20,7 +20,6 @@ class Solution(object):
 
 
 if __name__ == '__main__':
-    if __name__ == '__main__':
-        solution = Solution()
-        result = solution.isPerfectSquare(8)
-        print(result)
+    solution = Solution()
+    result = solution.isPerfectSquare(8)
+    print(result)
